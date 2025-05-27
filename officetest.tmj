@@ -43,7 +43,7 @@
                 {
                  "name":"openWebsite",
                  "type":"string",
-                 "value":"https:\/\/www.youtube.com\/embed\/xvFZjo5PgG0?si=rgOoZ7hWjSU11mbm"
+                 "value":"https:\/\/www.youtube.com\/embed\/xvFZjo5PgG0?si=rgOoZ7hWjSU11mbm?autoplay=1"
                 }],
          "type":"tilelayer",
          "visible":true,
@@ -78,7 +78,7 @@
          "name":"start",
          "opacity":1,
          "type":"tilelayer",
-         "visible":false,
+         "visible":true,
          "width":31,
          "x":0,
          "y":0
