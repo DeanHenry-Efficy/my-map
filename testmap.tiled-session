@@ -1,0 +1,241 @@
+{
+    "Map/SizeTest": {
+        "height": 4300,
+        "width": 2
+    },
+    "activeFile": "efficyoffice.tmj",
+    "expandedProjectPaths": [
+        ".",
+        "dist",
+        "dist/assets"
+    ],
+    "file.lastUsedOpenFilter": "All Files (*)",
+    "fileStates": {
+        "C:/Users/dean.henry/OneDrive - Efficy/Bureaublad/Tiled/Assets 16bit/TopDownHouse_FloorsAndWalls.tsx": {
+            "scaleInDock": 1,
+            "scaleInEditor": 1
+        },
+        "C:/Users/dean.henry/OneDrive - Efficy/Bureaublad/Tiled/Assets 16bit/TopDownHouse_FurnitureState1.tsx": {
+            "scaleInDock": 1.5
+        },
+        "C:/Users/dean.henry/OneDrive - Efficy/Bureaublad/Tiled/Maps 32/testmap.tmx": {
+            "scale": 0.8797395833333332,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 480.2557575039963,
+                "y": 320.54940500858453
+            }
+        },
+        "conference.tmj": {
+            "expandedGroupLayers": [
+                52,
+                54
+            ],
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1.0786458333333333,
+            "selectedLayer": 13,
+            "viewCenter": {
+                "x": 304.54852728150655,
+                "y": 63.04200869145342
+            }
+        },
+        "conference.tmj#WA_Decoration": {
+            "scaleInDock": 0.5
+        },
+        "conference.tmj#WA_Exterior": {
+            "scaleInDock": 0.5
+        },
+        "conference.tmj#WA_Logo_Long": {
+            "scaleInDock": 0.5
+        },
+        "conference.tmj#WA_Miscellaneous": {
+            "scaleInDock": 0.5
+        },
+        "conference.tmj#WA_Other_Furniture": {
+            "scaleInDock": 0.5
+        },
+        "conference.tmj#WA_Room_Builder": {
+            "scaleInDock": 0.5
+        },
+        "conference.tmj#WA_Seats": {
+            "scaleInDock": 0.5
+        },
+        "conference.tmj#WA_Special_Zones": {
+            "scaleInDock": 0.5
+        },
+        "conference.tmj#WA_Tables": {
+            "scaleInDock": 0.5
+        },
+        "conference.tmj#WA_User_Interface": {
+            "scaleInDock": 0.5
+        },
+        "dist/conference.tmj": {
+            "scale": 1.1009114583333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 383.772915434654,
+                "y": 223.90538143110584
+            }
+        },
+        "dist/conference.tmj#Chunk 1": {
+            "scaleInDock": 1
+        },
+        "efficyoffice.tmj": {
+            "expandedGroupLayers": [
+                51,
+                63
+            ],
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.5,
+            "selectedLayer": 1,
+            "viewCenter": {
+                "x": 846,
+                "y": 1136
+            }
+        },
+        "efficyoffice.tmj#WA_Decoration": {
+            "scaleInDock": 0.75
+        },
+        "efficyoffice.tmj#WA_Exterior": {
+            "scaleInDock": 0.75,
+            "scaleInEditor": 1
+        },
+        "efficyoffice.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "efficyoffice.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "efficyoffice.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "efficyoffice.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "efficyoffice.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "efficyoffice.tmj#WA_Special_Zones": {
+            "scaleInDock": 0.75
+        },
+        "efficyoffice.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "efficyoffice.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "office.tmj": {
+            "expandedGroupLayers": [
+                52,
+                55,
+                51
+            ],
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 0.75,
+            "selectedLayer": 12,
+            "viewCenter": {
+                "x": 496,
+                "y": 336
+            }
+        },
+        "office.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "office.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "office.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "office.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "office.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "office.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "office.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "office.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "office.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "office.tmj#WA_User_Interface": {
+            "scaleInDock": 1
+        },
+        "officetest.tmj": {
+            "expandedGroupLayers": [
+                51,
+                55,
+                54
+            ],
+            "expandedObjectLayers": [
+                2
+            ],
+            "scale": 1,
+            "selectedLayer": 7,
+            "viewCenter": {
+                "x": 496,
+                "y": 335
+            }
+        },
+        "officetest.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "officetest.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "officetest.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "officetest.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "officetest.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "officetest.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "officetest.tmj#WA_Seats": {
+            "scaleInDock": 2
+        },
+        "officetest.tmj#WA_Special_Zones": {
+            "scaleInDock": 3
+        },
+        "officetest.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "officetest.tmj#WA_User_Interface": {
+            "scaleInDock": 2
+        }
+    },
+    "last.externalTilesetPath": "C:/Users/dean.henry/OneDrive - Efficy/Bureaublad/Tiled/Assets 16bit",
+    "map.lastUsedFormat": "json",
+    "openFiles": [
+        "efficyoffice.tmj",
+        "office.tmj"
+    ],
+    "project": "testmap.tiled-project",
+    "recentFiles": [
+        "office.tmj",
+        "efficyoffice.tmj",
+        "C:/Users/dean.henry/OneDrive - Efficy/Bureaublad/Tiled/Maps 32/testmap.tmx",
+        "conference.tmj",
+        "officetest.tmj",
+        "C:/Users/dean.henry/OneDrive - Efficy/Bureaublad/Tiled/Assets 16bit/TopDownHouse_FloorsAndWalls.tsx",
+        "dist/conference.tmj"
+    ],
+    "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)"
+}

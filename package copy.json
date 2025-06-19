@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "start": "serve -s build -l 8080",
+    "start": "vite",
     "build": "tsc && vite build",
     "prod": "vite preview",
     "upload": "npm run build && upload-wa-map",
@@ -22,7 +22,6 @@
   },
   "dependencies": {
     "@workadventure/scripting-api-extra": "^1.8.1",
-    "express": "^4.21.2",
-    "serve": "^14.2.4"
+    "express": "^4.21.2"
   }
 }
