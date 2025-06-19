@@ -93,8 +93,8 @@
             "scale": 0.5,
             "selectedLayer": 1,
             "viewCenter": {
-                "x": 846,
-                "y": 1136
+                "x": 831,
+                "y": 654
             }
         },
         "efficyoffice.tmj#WA_Decoration": {
@@ -140,8 +140,8 @@
             "scale": 0.75,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 496,
-                "y": 336
+                "x": 495.33333333333326,
+                "y": 335.99999999999994
             }
         },
         "office.tmj#WA_Decoration": {
