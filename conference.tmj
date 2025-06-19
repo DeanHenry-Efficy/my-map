@@ -324,7 +324,7 @@
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"officetest.tmj#from-conference"
+                         "value":"efficyoffice.tmj#from-conference"
                         }],
                  "rotation":0,
                  "type":"area",
