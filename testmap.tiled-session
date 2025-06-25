@@ -100,8 +100,8 @@
             "scale": 0.75,
             "selectedLayer": 24,
             "viewCenter": {
-                "x": 239.3333333333333,
-                "y": 155.99999999999994
+                "x": 243.33333333333331,
+                "y": 305.33333333333326
             }
         },
         "efficyoffice.tmj#WA_Decoration": {
@@ -136,17 +136,14 @@
             "scaleInDock": 1
         },
         "efficyoffice2f.tmj": {
-            "expandedGroupLayers": [
-                52,
-                63,
-                54,
-                55
+            "expandedObjectLayers": [
+                2
             ],
             "scale": 1,
             "selectedLayer": 24,
             "viewCenter": {
-                "x": 143,
-                "y": 363.5
+                "x": 342,
+                "y": 163.5
             }
         },
         "efficyoffice2f.tmj#WA_Decoration": {
@@ -181,9 +178,9 @@
         },
         "office.tmj": {
             "expandedGroupLayers": [
+                51,
                 52,
-                55,
-                51
+                55
             ],
             "expandedObjectLayers": [
                 2
@@ -191,8 +188,8 @@
             "scale": 0.75,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 495.33333333333326,
-                "y": 335.99999999999994
+                "x": 15.333333333333314,
+                "y": 543.9999999999999
             }
         },
         "office.tmj#WA_Decoration": {
@@ -282,11 +279,11 @@
     ],
     "project": "testmap.tiled-project",
     "recentFiles": [
+        "office.tmj",
         "FreePixel.tsx",
         "conference.tmj",
         "efficyoffice2f.tmj",
         "efficyoffice.tmj",
-        "office.tmj",
         "C:/Users/dean.henry/OneDrive - Efficy/Bureaublad/Tiled/Maps 32/testmap.tmx",
         "officetest.tmj",
         "C:/Users/dean.henry/OneDrive - Efficy/Bureaublad/Tiled/Assets 16bit/TopDownHouse_FloorsAndWalls.tsx",

@@ -1171,7 +1171,7 @@
                 {
                  "height":81.3333333333334,
                  "id":18,
-                 "name":"to-2f",
+                 "name":"to-efficyoffice2f",
                  "properties":[
                         {
                          "name":"exitUrl",
@@ -1188,7 +1188,7 @@
                 {
                  "height":100,
                  "id":19,
-                 "name":"from-2f",
+                 "name":"from-efficyoffice2f",
                  "properties":[
                         {
                          "name":"start",
