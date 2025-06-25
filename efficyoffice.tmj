@@ -1171,12 +1171,12 @@
                 {
                  "height":81.3333333333334,
                  "id":18,
-                 "name":"to-conference",
+                 "name":"to-2f",
                  "properties":[
                         {
                          "name":"exitUrl",
                          "type":"string",
-                         "value":"conference.tmj#from-office"
+                         "value":"efficyoffice2f.tmj#from-efficyoffice"
                         }],
                  "rotation":0,
                  "type":"area",
@@ -1188,7 +1188,7 @@
                 {
                  "height":100,
                  "id":19,
-                 "name":"from-conference",
+                 "name":"from-2f",
                  "properties":[
                         {
                          "name":"start",

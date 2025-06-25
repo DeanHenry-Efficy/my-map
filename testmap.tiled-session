@@ -41,8 +41,8 @@
             "scale": 1.0786458333333333,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 383.8145823273781,
-                "y": 223.89183969097053
+                "x": 384.2781265089329,
+                "y": 254.94929985514244
             }
         },
         "conference.tmj#WA_Decoration": {
@@ -100,8 +100,8 @@
             "scale": 0.75,
             "selectedLayer": 24,
             "viewCenter": {
-                "x": 238.66666666666669,
-                "y": 156
+                "x": 239.3333333333333,
+                "y": 155.99999999999994
             }
         },
         "efficyoffice.tmj#WA_Decoration": {
@@ -282,9 +282,9 @@
     ],
     "project": "testmap.tiled-project",
     "recentFiles": [
-        "efficyoffice2f.tmj",
         "FreePixel.tsx",
         "conference.tmj",
+        "efficyoffice2f.tmj",
         "efficyoffice.tmj",
         "office.tmj",
         "C:/Users/dean.henry/OneDrive - Efficy/Bureaublad/Tiled/Maps 32/testmap.tmx",
