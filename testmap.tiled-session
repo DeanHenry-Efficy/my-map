@@ -100,8 +100,8 @@
             "scale": 0.75,
             "selectedLayer": 24,
             "viewCenter": {
-                "x": 243.33333333333331,
-                "y": 305.33333333333326
+                "x": 238.66666666666666,
+                "y": 155.99999999999994
             }
         },
         "efficyoffice.tmj#WA_Decoration": {
@@ -136,14 +136,17 @@
             "scaleInDock": 1
         },
         "efficyoffice2f.tmj": {
+            "expandedGroupLayers": [
+                63
+            ],
             "expandedObjectLayers": [
                 2
             ],
-            "scale": 1,
-            "selectedLayer": 24,
+            "scale": 0.25,
+            "selectedLayer": 2,
             "viewCenter": {
-                "x": 342,
-                "y": 163.5
+                "x": 106,
+                "y": -270
             }
         },
         "efficyoffice2f.tmj#WA_Decoration": {
