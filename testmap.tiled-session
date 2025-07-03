@@ -5,9 +5,9 @@
     },
     "activeFile": "efficyoffice.tmj",
     "expandedProjectPaths": [
-        ".",
+        "dist/assets",
         "dist",
-        "dist/assets"
+        "."
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -25,6 +25,44 @@
                 "x": 480.2557575039963,
                 "y": 320.54940500858453
             }
+        },
+        "aimap.tmj": {
+            "scale": 1.1970766129032258,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 496.2088421052632,
+                "y": 335.8181052631579
+            }
+        },
+        "aimap.tmj#WA_Decoration": {
+            "scaleInDock": 1
+        },
+        "aimap.tmj#WA_Exterior": {
+            "scaleInDock": 1
+        },
+        "aimap.tmj#WA_Logo_Long": {
+            "scaleInDock": 1
+        },
+        "aimap.tmj#WA_Miscellaneous": {
+            "scaleInDock": 1
+        },
+        "aimap.tmj#WA_Other_Furniture": {
+            "scaleInDock": 1
+        },
+        "aimap.tmj#WA_Room_Builder": {
+            "scaleInDock": 1
+        },
+        "aimap.tmj#WA_Seats": {
+            "scaleInDock": 1
+        },
+        "aimap.tmj#WA_Special_Zones": {
+            "scaleInDock": 1
+        },
+        "aimap.tmj#WA_Tables": {
+            "scaleInDock": 1
+        },
+        "aimap.tmj#WA_User_Interface": {
+            "scaleInDock": 1
         },
         "conference.tmj": {
             "expandedGroupLayers": [
@@ -84,21 +122,24 @@
         },
         "efficyoffice.tmj": {
             "expandedGroupLayers": [
-                55,
-                52,
-                51,
+                54,
                 63,
-                54
+                55,
+                51,
+                52
             ],
             "expandedObjectLayers": [
                 2
             ],
             "scale": 0.5,
-            "selectedLayer": 22,
+            "selectedLayer": -1,
             "viewCenter": {
-                "x": 845,
-                "y": 416
+                "x": 426,
+                "y": 690
             }
+        },
+        "efficyoffice.tmj#Custom": {
+            "scaleInDock": 0.33
         },
         "efficyoffice.tmj#WA_Decoration": {
             "scaleInDock": 0.75
@@ -133,9 +174,9 @@
         },
         "office.tmj": {
             "expandedGroupLayers": [
-                52,
                 55,
-                51
+                51,
+                52
             ],
             "expandedObjectLayers": [
                 2
@@ -143,8 +184,8 @@
             "scale": 0.75,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 495.33333333333326,
-                "y": 335.99999999999994
+                "x": 495.9999999999999,
+                "y": 336
             }
         },
         "office.tmj#WA_Decoration": {
@@ -225,6 +266,7 @@
         }
     },
     "last.externalTilesetPath": "C:/Users/dean.henry/OneDrive - Efficy/Bureaublad/Tiled/Assets 16bit",
+    "last.imagePath": "C:/Users/dean.henry/OneDrive - Efficy/Bureaublad/Dev/WorkAdventure/EfficyMap/my-map/tilesets",
     "map.lastUsedFormat": "json",
     "openFiles": [
         "efficyoffice.tmj",
@@ -232,13 +274,14 @@
     ],
     "project": "testmap.tiled-project",
     "recentFiles": [
-        "office.tmj",
         "efficyoffice.tmj",
+        "office.tmj",
         "C:/Users/dean.henry/OneDrive - Efficy/Bureaublad/Tiled/Maps 32/testmap.tmx",
         "conference.tmj",
         "officetest.tmj",
         "C:/Users/dean.henry/OneDrive - Efficy/Bureaublad/Tiled/Assets 16bit/TopDownHouse_FloorsAndWalls.tsx",
         "dist/conference.tmj"
     ],
+    "tileset.embedInMap": true,
     "tileset.lastUsedFilter": "Tiled tileset files (*.tsx *.xml)"
 }
