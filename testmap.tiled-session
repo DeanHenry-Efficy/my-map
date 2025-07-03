@@ -122,20 +122,20 @@
         },
         "efficyoffice.tmj": {
             "expandedGroupLayers": [
-                54,
+                52,
                 63,
-                55,
                 51,
-                52
+                55,
+                54
             ],
             "expandedObjectLayers": [
                 2
             ],
             "scale": 0.5,
-            "selectedLayer": -1,
+            "selectedLayer": 0,
             "viewCenter": {
-                "x": 426,
-                "y": 690
+                "x": 1530,
+                "y": 1388
             }
         },
         "efficyoffice.tmj#Custom": {
@@ -174,9 +174,9 @@
         },
         "office.tmj": {
             "expandedGroupLayers": [
-                55,
+                52,
                 51,
-                52
+                55
             ],
             "expandedObjectLayers": [
                 2
@@ -184,8 +184,8 @@
             "scale": 0.75,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 495.9999999999999,
-                "y": 336
+                "x": 496,
+                "y": 336.66666666666663
             }
         },
         "office.tmj#WA_Decoration": {
@@ -274,8 +274,8 @@
     ],
     "project": "testmap.tiled-project",
     "recentFiles": [
-        "efficyoffice.tmj",
         "office.tmj",
+        "efficyoffice.tmj",
         "C:/Users/dean.henry/OneDrive - Efficy/Bureaublad/Tiled/Maps 32/testmap.tmx",
         "conference.tmj",
         "officetest.tmj",
