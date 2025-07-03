@@ -137,11 +137,11 @@
             "expandedObjectLayers": [
                 2
             ],
-            "scale": 0.5,
-            "selectedLayer": 0,
+            "scale": 0.75,
+            "selectedLayer": 25,
             "viewCenter": {
-                "x": 1530,
-                "y": 1389
+                "x": 1176,
+                "y": 847.3333333333334
             }
         },
         "efficyoffice.tmj#Custom": {
@@ -190,8 +190,8 @@
             "scale": 0.75,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 496,
-                "y": 336.66666666666663
+                "x": 495.3333333333333,
+                "y": 336
             }
         },
         "office.tmj#WA_Decoration": {
@@ -226,13 +226,16 @@
         },
         "office2.tmj": {
             "expandedGroupLayers": [
-                55
+                52,
+                51,
+                55,
+                54
             ],
-            "scale": 1,
-            "selectedLayer": 2,
+            "scale": 0.75,
+            "selectedLayer": 17,
             "viewCenter": {
-                "x": 567,
-                "y": 587.5
+                "x": 801.3333333333333,
+                "y": 675.3333333333334
             }
         },
         "office2.tmj#A_pixel_art_tileset_arranged_in_a_grid_of_9x10_squ_transparent": {
@@ -245,7 +248,7 @@
             "scaleInDock": 1
         },
         "office2.tmj#WA_Decoration": {
-            "scaleInDock": 0.25
+            "scaleInDock": 1
         },
         "office2.tmj#WA_Exterior": {
             "scaleInDock": 1
@@ -254,7 +257,7 @@
             "scaleInDock": 1
         },
         "office2.tmj#WA_Miscellaneous": {
-            "scaleInDock": 1
+            "scaleInDock": 1.5
         },
         "office2.tmj#WA_Other_Furniture": {
             "scaleInDock": 1
@@ -263,13 +266,13 @@
             "scaleInDock": 1
         },
         "office2.tmj#WA_Seats": {
-            "scaleInDock": 1
+            "scaleInDock": 1.5
         },
         "office2.tmj#WA_Special_Zones": {
             "scaleInDock": 1
         },
         "office2.tmj#WA_Tables": {
-            "scaleInDock": 1
+            "scaleInDock": 3
         },
         "office2.tmj#WA_User_Interface": {
             "scaleInDock": 1
@@ -330,9 +333,9 @@
     ],
     "project": "testmap.tiled-project",
     "recentFiles": [
+        "office.tmj",
         "office2.tmj",
         "aimap.tmj",
-        "office.tmj",
         "efficyoffice.tmj",
         "C:/Users/dean.henry/OneDrive - Efficy/Bureaublad/Tiled/Maps 32/testmap.tmx",
         "conference.tmj",
