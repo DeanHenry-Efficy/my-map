@@ -932,8 +932,8 @@
         }, 
         {
          "name":"proximityMeetingDistance",
-         "type":"string",
-         "value":"600"
+         "type":"int",
+         "value":600
         }, 
         {
          "name":"script",
