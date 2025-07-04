@@ -931,6 +931,11 @@
          "value":"Office"
         }, 
         {
+         "name":"proximityMeetingDistance",
+         "type":"string",
+         "value":"600"
+        }, 
+        {
          "name":"script",
          "type":"string",
          "value":"src\/main.ts"
