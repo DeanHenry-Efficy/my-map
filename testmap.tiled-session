@@ -81,8 +81,8 @@
             "scale": 1.0786458333333333,
             "selectedLayer": 13,
             "viewCenter": {
-                "x": 304.54852728150655,
-                "y": 63.04200869145342
+                "x": 304.0849830999517,
+                "y": 62.578464509898595
             }
         },
         "conference.tmj#WA_Decoration": {
@@ -234,11 +234,11 @@
             "expandedObjectLayers": [
                 2
             ],
-            "scale": 4,
-            "selectedLayer": 13,
+            "scale": 1,
+            "selectedLayer": 10,
             "viewCenter": {
-                "x": 205.25,
-                "y": 87.125
+                "x": 557,
+                "y": 348.5
             }
         },
         "office2.tmj#A_pixel_art_tileset_arranged_in_a_grid_of_9x10_squ_transparent": {
@@ -249,6 +249,9 @@
         },
         "office2.tmj#ChatGPT Image 3 jul 2025, 13_01_37": {
             "scaleInDock": 1
+        },
+        "office2.tmj#Custom": {
+            "scaleInDock": 2
         },
         "office2.tmj#WA_Decoration": {
             "scaleInDock": 1
@@ -336,12 +339,12 @@
     ],
     "project": "testmap.tiled-project",
     "recentFiles": [
+        "conference.tmj",
         "office.tmj",
         "efficyoffice.tmj",
         "office2.tmj",
         "aimap.tmj",
         "C:/Users/dean.henry/OneDrive - Efficy/Bureaublad/Tiled/Maps 32/testmap.tmx",
-        "conference.tmj",
         "officetest.tmj",
         "C:/Users/dean.henry/OneDrive - Efficy/Bureaublad/Tiled/Assets 16bit/TopDownHouse_FloorsAndWalls.tsx",
         "dist/conference.tmj"
