@@ -715,12 +715,29 @@
                  "type":"area",
                  "visible":true,
                  "width":32,
-                 "x":98.5,
-                 "y":-13.1666666666666
+                 "x":58.5,
+                 "y":18.8333333333334
                 }, 
                 {
                  "height":32,
                  "id":19,
+                 "name":"from-old",
+                 "properties":[
+                        {
+                         "name":"start",
+                         "type":"bool",
+                         "value":true
+                        }],
+                 "rotation":0,
+                 "type":"area",
+                 "visible":true,
+                 "width":32,
+                 "x":784.25,
+                 "y":755.416666666667
+                }, 
+                {
+                 "height":32,
+                 "id":36,
                  "name":"from-conference",
                  "properties":[
                         {
@@ -732,8 +749,8 @@
                  "type":"area",
                  "visible":true,
                  "width":32,
-                 "x":112.25,
-                 "y":-5.58333333333337
+                 "x":189.25,
+                 "y":48.4166666666666
                 }, 
                 {
                  "height":550,
@@ -759,7 +776,7 @@
                 }],
          "opacity":1,
          "type":"objectgroup",
-         "visible":false,
+         "visible":true,
          "x":0,
          "y":0
         }, 
@@ -918,7 +935,7 @@
          "y":0
         }],
  "nextlayerid":79,
- "nextobjectid":36,
+ "nextobjectid":37,
  "orientation":"orthogonal",
  "properties":[
         {

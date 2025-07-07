@@ -3,11 +3,11 @@
         "height": 4300,
         "width": 2
     },
-    "activeFile": "efficyoffice.tmj",
+    "activeFile": "office2.tmj",
     "expandedProjectPaths": [
+        ".",
         "dist/assets",
-        "dist",
-        "."
+        "dist"
     ],
     "file.lastUsedOpenFilter": "All Files (*)",
     "fileStates": {
@@ -137,11 +137,11 @@
             "expandedObjectLayers": [
                 2
             ],
-            "scale": 0.75,
-            "selectedLayer": 25,
+            "scale": 0.33,
+            "selectedLayer": 24,
             "viewCenter": {
-                "x": 856,
-                "y": 847.3333333333334
+                "x": -1351.5151515151515,
+                "y": -666.6666666666665
             }
         },
         "efficyoffice.tmj#Custom": {
@@ -190,8 +190,8 @@
             "scale": 0.75,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 175.33333333333331,
-                "y": 336
+                "x": 316,
+                "y": 560
             }
         },
         "office.tmj#WA_Decoration": {
@@ -228,17 +228,16 @@
             "expandedGroupLayers": [
                 52,
                 51,
-                55,
-                54
+                55
             ],
             "expandedObjectLayers": [
                 2
             ],
             "scale": 1,
-            "selectedLayer": 10,
+            "selectedLayer": 14,
             "viewCenter": {
-                "x": 557,
-                "y": 348.5
+                "x": 800.5,
+                "y": 771.5
             }
         },
         "office2.tmj#A_pixel_art_tileset_arranged_in_a_grid_of_9x10_squ_transparent": {
@@ -272,7 +271,7 @@
             "scaleInDock": 1
         },
         "office2.tmj#WA_Seats": {
-            "scaleInDock": 1.5
+            "scaleInDock": 1
         },
         "office2.tmj#WA_Special_Zones": {
             "scaleInDock": 1
@@ -334,15 +333,14 @@
     "last.imagePath": "C:/Users/dean.henry/OneDrive - Efficy/Bureaublad/Dev/WorkAdventure/EfficyMap/my-map/tilesets",
     "map.lastUsedFormat": "json",
     "openFiles": [
-        "efficyoffice.tmj",
-        "office.tmj"
+        "office2.tmj"
     ],
     "project": "testmap.tiled-project",
     "recentFiles": [
-        "conference.tmj",
-        "office.tmj",
         "efficyoffice.tmj",
         "office2.tmj",
+        "conference.tmj",
+        "office.tmj",
         "aimap.tmj",
         "C:/Users/dean.henry/OneDrive - Efficy/Bureaublad/Tiled/Maps 32/testmap.tmx",
         "officetest.tmj",
