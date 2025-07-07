@@ -562,7 +562,7 @@
                  "y":651.666666666667
                 }, 
                 {
-                 "height":192,
+                 "height":220,
                  "id":16,
                  "name":"jitsiMeetingRoom3",
                  "properties":[
@@ -589,12 +589,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":297.333333333333,
-                 "x":1269.33333333333,
+                 "width":349.333333333333,
+                 "x":1217.33333333333,
                  "y":349.333333333333
                 }, 
                 {
-                 "height":192,
+                 "height":218.666666666667,
                  "id":35,
                  "name":"jitsiMeetingRoom2",
                  "properties":[
@@ -621,12 +621,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":297.333333333333,
-                 "x":1269.33333333333,
+                 "width":349.333333333333,
+                 "x":1217.33333333333,
                  "y":598.333333333333
                 }, 
                 {
-                 "height":192,
+                 "height":233.333333333333,
                  "id":34,
                  "name":"jitsiMeetingRoom",
                  "properties":[
@@ -653,9 +653,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":297.333333333333,
-                 "x":1268.33333333333,
-                 "y":83.3333333333334
+                 "width":347.999999999999,
+                 "x":1217.66666666666,
+                 "y":60.6666666666667
                 }, 
                 {
                  "height":39.6969696969697,
@@ -753,7 +753,7 @@
                  "y":48.4166666666666
                 }, 
                 {
-                 "height":550,
+                 "height":379.333333333333,
                  "id":24,
                  "name":"chatZone",
                  "properties":[
@@ -770,7 +770,7 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":904,
+                 "width":214.666666666667,
                  "x":310,
                  "y":218
                 }],
