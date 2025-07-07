@@ -680,38 +680,6 @@
                  "y":124.333333333333
                 }, 
                 {
-                 "height":71.3333333333334,
-                 "id":18,
-                 "name":"whiteboard1",
-                 "properties":[
-                        {
-                         "name":"dynamic",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/excalidraw.com\/#room=28810aa955c4c2b4c6d6,QpzdUQNFOV6YQ9hY-VnrWA"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"openWebsiteTriggerMessage",
-                         "type":"string",
-                         "value":"Press SPACE or touch here to open the whiteboard."
-                        }],
-                 "rotation":0,
-                 "type":"website",
-                 "visible":true,
-                 "width":132,
-                 "x":973,
-                 "y":647.333333333333
-                }, 
-                {
                  "height":64,
                  "id":20,
                  "name":"to-conference",
