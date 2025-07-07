@@ -680,25 +680,35 @@
                  "y":124.333333333333
                 }, 
                 {
-                 "height":54,
+                 "height":176.666666666667,
                  "id":18,
                  "name":"whiteboard1",
                  "properties":[
                         {
+                         "name":"dynamic",
+                         "type":"bool",
+                         "value":true
+                        }, 
+                        {
                          "name":"openWebsite",
                          "type":"string",
-                         "value":"https:\/\/app.eraser.io\/workspace\/jipqvgRKF3AUrcx36BIi"
+                         "value":"https:\/\/excalidraw.com\/#room=28810aa955c4c2b4c6d6,QpzdUQNFOV6YQ9hY-VnrWA"
                         }, 
                         {
                          "name":"openWebsiteTrigger",
                          "type":"string",
                          "value":"onaction"
+                        }, 
+                        {
+                         "name":"openWebsiteTriggerMessage",
+                         "type":"string",
+                         "value":"Press SPACE or touch here to open the whiteboard."
                         }],
                  "rotation":0,
-                 "type":"area",
+                 "type":"website",
                  "visible":true,
-                 "width":80,
-                 "x":1377,
+                 "width":217.333333333333,
+                 "x":1313,
                  "y":563.333333333333
                 }, 
                 {
