@@ -1390,7 +1390,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Office"
+         "value":"Efficy-Office-v0.1"
         }, 
         {
          "name":"script",

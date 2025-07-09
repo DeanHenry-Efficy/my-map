@@ -434,49 +434,6 @@
          "name":"floorLayer",
          "objects":[
                 {
-                 "height":61.6672851518306,
-                 "id":12,
-                 "name":"clockPopup",
-                 "rotation":0,
-                 "type":"",
-                 "visible":true,
-                 "width":93.7162209047986,
-                 "x":499.919325398621,
-                 "y":23.3602449804649
-                }, 
-                {
-                 "height":282.666666666667,
-                 "id":13,
-                 "name":"jitsiChillZone",
-                 "properties":[
-                        {
-                         "name":"focusable",
-                         "type":"bool",
-                         "value":true
-                        }, 
-                        {
-                         "name":"jitsiRoom",
-                         "type":"string",
-                         "value":"ChillZone"
-                        }, 
-                        {
-                         "name":"jitsiTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }, 
-                        {
-                         "name":"zoom_margin",
-                         "type":"float",
-                         "value":1
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":205.333333333333,
-                 "x":64,
-                 "y":254.666666666667
-                }, 
-                {
                  "height":134.666666666667,
                  "id":14,
                  "name":"silentZone5",
@@ -562,7 +519,7 @@
                  "y":651.666666666667
                 }, 
                 {
-                 "height":222.666666666667,
+                 "height":241.333333333333,
                  "id":16,
                  "name":"jitsiMeetingRoom3",
                  "properties":[
@@ -589,9 +546,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":361.333333333333,
-                 "x":1220,
-                 "y":318.666666666666
+                 "width":368,
+                 "x":1213.33333333333,
+                 "y":344
                 }, 
                 {
                  "height":221.333333333333,
@@ -621,12 +578,12 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":369.333333333333,
-                 "x":1217.33333333333,
-                 "y":569
+                 "width":374.666666666667,
+                 "x":1213.33333333333,
+                 "y":589
                 }, 
                 {
-                 "height":221.333333333333,
+                 "height":278.666666666667,
                  "id":34,
                  "name":"jitsiMeetingRoom",
                  "properties":[
@@ -653,53 +610,9 @@
                  "rotation":0,
                  "type":"area",
                  "visible":true,
-                 "width":365.333333333333,
-                 "x":1219,
+                 "width":371.999999999999,
+                 "x":1212.33333333333,
                  "y":54.0000000000001
-                }, 
-                {
-                 "height":39.6969696969697,
-                 "id":17,
-                 "name":"clock",
-                 "properties":[
-                        {
-                         "name":"label",
-                         "type":"string",
-                         "value":"Check the clock"
-                        }, 
-                        {
-                         "name":"url",
-                         "type":"string",
-                         "value":"https:\/\/clocktab.com"
-                        }],
-                 "rotation":0,
-                 "type":"action",
-                 "visible":true,
-                 "width":50.2727272727272,
-                 "x":518.484848484849,
-                 "y":124.333333333333
-                }, 
-                {
-                 "height":54,
-                 "id":18,
-                 "name":"whiteboard1",
-                 "properties":[
-                        {
-                         "name":"openWebsite",
-                         "type":"string",
-                         "value":"https:\/\/excalidraw.com\/#room=28810aa955c4c2b4c6d6,QpzdUQNFOV6YQ9hY-VnrWA"
-                        }, 
-                        {
-                         "name":"openWebsiteTrigger",
-                         "type":"string",
-                         "value":"onaction"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":80,
-                 "x":993,
-                 "y":662
                 }, 
                 {
                  "height":64,
@@ -751,28 +664,6 @@
                  "width":32,
                  "x":189.25,
                  "y":48.4166666666666
-                }, 
-                {
-                 "height":550,
-                 "id":24,
-                 "name":"chatZone",
-                 "properties":[
-                        {
-                         "name":"chatDescription",
-                         "type":"string",
-                         "value":"OfficeWideChat"
-                        }, 
-                        {
-                         "name":"chatName",
-                         "type":"string",
-                         "value":"EfficyOfficeChat"
-                        }],
-                 "rotation":0,
-                 "type":"area",
-                 "visible":true,
-                 "width":904,
-                 "x":310,
-                 "y":218
                 }],
          "opacity":1,
          "type":"objectgroup",
@@ -956,7 +847,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Office"
+         "value":"Efficy Office First Floor"
         }, 
         {
          "name":"proximityMeetingDistance",

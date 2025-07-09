@@ -29,6 +29,21 @@
                 "y": 320.54940500858453
             }
         },
+        "Room_Builder_free_16x16.tsx": {
+            "scaleInDock": 1
+        },
+        "TopDownHouse_DoorsAndWindows.tsx": {
+            "scaleInDock": 1
+        },
+        "TopDownHouse_FloorsAndWalls.tsx": {
+            "scaleInDock": 1
+        },
+        "TopDownHouse_FloorsAndWalls_OpenDoors.tsx": {
+            "scaleInDock": 1
+        },
+        "TopDownHouse_FurnitureState1.tsx": {
+            "scaleInDock": 1
+        },
         "aimap.tmj": {
             "scale": 1.1970766129032258,
             "selectedLayer": 3,
@@ -81,8 +96,8 @@
             "scale": 1.0786458333333333,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 620.6856591018832,
-                "y": 237.79816513761477
+                "x": 568.3051665861902,
+                "y": 238.26170931916954
             }
         },
         "conference.tmj#WA_Decoration": {
@@ -140,8 +155,8 @@
             "scale": 0.33,
             "selectedLayer": 24,
             "viewCenter": {
-                "x": 1122.7272727272727,
-                "y": -666.6666666666665
+                "x": 1300,
+                "y": 824.2424242424241
             }
         },
         "efficyoffice.tmj#Custom": {
@@ -190,7 +205,7 @@
             "scale": 0.75,
             "selectedLayer": 12,
             "viewCenter": {
-                "x": 316,
+                "x": 261.33333333333337,
                 "y": 560
             }
         },
@@ -236,8 +251,8 @@
             "scale": 0.75,
             "selectedLayer": 14,
             "viewCenter": {
-                "x": 1154,
-                "y": 590
+                "x": 1394.6666666666665,
+                "y": 940.6666666666667
             }
         },
         "office2.tmj#A_pixel_art_tileset_arranged_in_a_grid_of_9x10_squ_transparent": {
@@ -327,6 +342,14 @@
         },
         "officetest.tmj#WA_User_Interface": {
             "scaleInDock": 2
+        },
+        "testmap.tmj": {
+            "scale": 0.9806770833333333,
+            "selectedLayer": 0,
+            "viewCenter": {
+                "x": 479.77056667905896,
+                "y": 319.6770938446015
+            }
         }
     },
     "last.externalTilesetPath": "C:/Users/dean.henry/OneDrive - Efficy/Bureaublad/Tiled/Assets 16bit",
@@ -337,9 +360,10 @@
     ],
     "project": "testmap.tiled-project",
     "recentFiles": [
+        "conference.tmj",
+        "testmap.tmj",
         "efficyoffice.tmj",
         "office2.tmj",
-        "conference.tmj",
         "office.tmj",
         "aimap.tmj",
         "C:/Users/dean.henry/OneDrive - Efficy/Bureaublad/Tiled/Maps 32/testmap.tmx",

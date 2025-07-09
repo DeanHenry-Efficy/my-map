@@ -564,7 +564,7 @@
         {
          "name":"mapName",
          "type":"string",
-         "value":"Office"
+         "value":"StarterOffice"
         }, 
         {
          "name":"script",
